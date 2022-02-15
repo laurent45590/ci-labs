@@ -1,9 +1,4 @@
-
-Conversation ouverte. 5 messages. 1 message non lu.
-
-Aller au contenu
-Utiliser Gmail avec un lecteur d'écran
-	Vous utilisez la totalité de votre espace de stockage. Il vous sera bientôt impossible d'envoyer et de recevoir des e-mails, sauf si vous libérez de l'espace ou si vous achetez de l'espace supplémentaire. Un délai maximal de 24 heures peut être nécessaire pour que ces modifications soient appliquées à votre espace de stockage.
+de votre espace de stockage. Il vous sera bientôt impossible d'envoyer et de recevoir des e-mails, sauf si vous libérez de l'espace ou si vous achetez de l'espace supplémentaire. Un délai maximal de 24 heures peut être nécessaire pour que ces modifications soient appliquées à votre espace de stockage.
 Meet
 Nouvelle réunion
 Rejoindre une réunion
@@ -18,11 +13,11 @@ Le lun. 14 févr. 2022 à 17:16, soufiene BEN JAMAA <benjamaasoufiene@gmail.com>
 2
 soufiene BEN JAMAA
 	
-	Pièces jointes14:10 (il y a 31 minutes)
+	Pièces jointes14:10 (il y a 33 minutes)
 Le mar. 15 févr. 2022 à 12:17, soufiene BEN JAMAA <benjamaasoufiene@gmail.com> a écrit : Le mar. 15 févr. 2022 à 11:54, soufiene BEN JAMAA <benjamaasoufiene@gma
 soufiene BEN JAMAA <benjamaasoufiene@gmail.com>
 	
-Pièces jointes14:41 (il y a 0 minute)
+Pièces jointes14:41 (il y a 1 minute)
 	
 À pauline.malosse, laurent.david, moi
    
